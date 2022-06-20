@@ -30,11 +30,13 @@ body {
 }
 
 .navbar .navbar-item {
-    color: #190af3;
+    /* color: #190af3; */
+    color: #fc7702;
 }
 
 .navbar .navbar-item.is-active {
-    color: #190af3;
+    /* color: #190af3; */
+    color: #fc7702;
     font-weight: 700;
 }
 
@@ -45,7 +47,8 @@ body {
 
 .navbar .navbar-item a {
     margin-left: 1rem;
-    color: #190af3;
+    color: #fc7702;
+    /* color: #190af3; */
 }
 
 .blog-posts {
@@ -113,11 +116,11 @@ body {
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
-    color: wheat;
+    
     /* color: #e79954; */
 }
 
-.columns.is-centered.menu1{
+.hero.is-medium.has-text-centered.menu1{ 
     background-color: #e79954;
     color: rgb(121, 118, 118);
 }
