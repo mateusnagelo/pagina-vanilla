@@ -95,6 +95,7 @@ body {
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
+    color: white;
     
 }
 .hero.is-fullheight.login1{
@@ -116,6 +117,7 @@ body {
     letter-spacing: .03rem;
     font-size: 1.2rem;
     font-family: sans-serif, serif;
+    color: white;
     
     /* color: #e79954; */
 }
